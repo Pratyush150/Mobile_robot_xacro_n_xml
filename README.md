@@ -175,9 +175,9 @@ To make it production-level:
 
 Add actuation
 
-Author
-Pratyush Vatsa
-
 Add controllers
 
 Add simulation
+
+Author
+Pratyush Vatsa
